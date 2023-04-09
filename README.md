@@ -51,5 +51,3 @@ Open Epic Games and launch fortnite.
 Easy Anti Cheat ( EAC ) should run.
 
 Enjoy
-
-# PASSWORD FOR ZIP ARCHIVE: 23
